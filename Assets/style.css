@@ -1,0 +1,71 @@
+
+/*--using ul tag and li tags in the Nav-Bar--*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+
+  /*--adjusting the font color on Nav-Bar for Contact, Portfolio, and About--*/
+
+  li {
+
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+/*--sets the body background to the geometric-leaves.png picture--*/
+
+  body {
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../images/geometric-leaves.png");
+  }
+
+/*--sets the solid grey background outlining the pictures and texts in the body--*/
+
+  .block{
+    background-color: lightgrey;
+    padding: 30px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    float: center;
+  }
+ 
+/*--creates the solid line under the heading of each webpage--*/
+
+hr.solid {
+
+  border-top: 4px solid #bbb;
+}
+
+/*--sets the font size to x-large in the body--*/
+
+p{
+
+  font-size: x-large;
+}
+
+/*--adjusts the image in the body to the left for the text to wrap around it--*/
+
+#about-image{
+
+  float: left;
+  width: 400px;
+  margin: 10px 20px 10px 10px;
+}
+
+/*--adjusts the spacing for the images on the portfolio.html webpage--*/
+
+.pictures{
+  width: 450px;
+  height: 350px;
+  margin: 30px;
+}
+
+
+
