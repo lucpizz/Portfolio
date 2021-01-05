@@ -15,7 +15,7 @@ Create a dynamic and updateable portfolio website that showcases "Full Stack Dev
 1. HTML webpages
 
    - about.html - Primary webpage with personal description and access to both LinkedIn and GitHub sites
-   - projects.html - Project webpage listing two projects that utilized technologies such as HTML, CSS, Javascript, JQuery, AJax, etc.
+   - projects.html - Project webpage listing two projects that utilized technologies such as HTML, CSS, Javascript, JQuery, AJAX, etc.
    - pictures.html - Picture webpage that displays pictures taken along the Connecticut River (hobby)
 
 2. Asset directory
