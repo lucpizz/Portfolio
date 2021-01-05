@@ -6,7 +6,7 @@
 
 ## Objective
 
-Create a dynamic and updateable profolio website that showcases "Full Stack Developer" projects, personal experiences, and hobbies.
+Create a dynamic and updateable portfolio website that showcases "Full Stack Developer" projects, personal experiences, and hobbies.
 
 ---
 
