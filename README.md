@@ -44,4 +44,4 @@ Create a dynamic and updateable profolio website that showcases "Full Stack Deve
 
 ![Screenshot of the About](/Images/About.png)
 ![Screenshot of the Projects](/Images/Projects.png)
-![Screenshot of the Pictures](/Images/Picture.png)
+![Screenshot of the Pictures](/Images/Pictures.png)
