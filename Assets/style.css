@@ -32,6 +32,14 @@ body {
   float: center;
 }
 
+.div1 {
+  align-content: center;
+}
+
+p {
+  align-items: center;
+}
+
 /*--creates the solid line under the heading of each webpage--*/
 
 hr.solid {
